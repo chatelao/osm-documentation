@@ -1,3 +1,4 @@
+OSM Wiki Komponentenübersicht: https://wiki.openstreetmap.org/wiki/Component_overview
 
 +------------------------+---------------------+---------------------------------------------------+
 |         Module         |      Solution       |                                                   |
