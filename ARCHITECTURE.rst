@@ -35,14 +35,13 @@ OSM Wiki Komponentenübersicht: https://wiki.openstreetmap.org/wiki/Component_ov
 | Viewer / Editor        | TillMill            |                                                   |
 |                        | kosmtik             |                                                   |
 +------------------------+---------------------+---------------------------------------------------+
-| Database               | PostGre / PostGIS   |                                                   |
-+------------------------+---------------------+---------------------------------------------------+
+| Database               | PostGre / PostGIS   | https://wiki.openstreetmap.org/wiki/Database      |                                     +------------------------+---------------------+---------------------------------------------------+
 | Data ex-/importer      | osm2pgsql           |                                                   |
 |                        | imposm              |                                                   |
 |                        | osmosis             | https://github.com/openstreetmap/osmosis          |
 +------------------------+---------------------+---------------------------------------------------+
 | Raw Data               | .geojson            |                                                   |
-|                        | .osm                |                                                   |
+|                        | .osm                | https://wiki.openstreetmap.org/wiki/Database      |
 |                        | .pbf                |                                                   |
 |                        | ESRI Shapefile      |                                                   |
 +------------------------+---------------------+---------------------------------------------------+
