@@ -1,4 +1,5 @@
 OSM Wiki Komponentenübersicht: https://wiki.openstreetmap.org/wiki/Component_overview
+The hardware running now: https://hardware.openstreetmap.org/
 
 +------------------------+---------------------+---------------------------------------------------+
 |         Module         |      Solution       |                                                   |
